@@ -7,8 +7,6 @@
     <h2>Getting Started</h2>
     <h3>Installation</h3>
     <ol>
-        <li>Clone the repository to your local machine:</li>
-        <code>git clone https://github.com/your-username/skillhub.git</code>
         <li>Navigate to the project directory:</li>
         <code>cd skillhub</code>
         <li>Create a virtual environment (optional but recommended):</li>
