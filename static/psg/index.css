@@ -1,0 +1,392 @@
+.front-view-of-education-day-co {
+    position: absolute;
+    top: 218px;
+    left: 1149px;
+    width: 579px;
+    height: 681px;
+    object-fit: cover;
+  }
+  .talent-trax,
+  .where-skill-meets {
+    position: absolute;
+    letter-spacing: 0.23em;
+    line-height: 172.5%;
+  }
+  .talent-trax {
+    top: 0;
+    left: 37px;
+    background: linear-gradient(-90deg, #cf6f7a 11.45%, #b40318 76.75%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .where-skill-meets {
+    top: 332px;
+    left: 0;
+    font-size: 54px;
+    font-weight: 300;
+    font-family: var(--font-montserrat);
+  }
+  .talent-trax-parent {
+    position: absolute;
+    top: 327px;
+    left: 36px;
+    width: 1113px;
+    height: 425px;
+  }
+  .home {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 600;
+  }
+  .about-us,
+  .contact-us,
+  .courses,
+  .workshops {
+    position: absolute;
+    top: 0;
+    left: 94px;
+    font-weight: 600;
+  }
+  .contact-us,
+  .courses,
+  .workshops {
+    left: 212px;
+  }
+  .contact-us,
+  .workshops {
+    left: 324px;
+  }
+  .contact-us {
+    left: 463px;
+  }
+  .group-child,
+  .home-parent {
+    position: absolute;
+    top: 23px;
+    left: 0;
+    width: 550px;
+    height: 21px;
+  }
+  .group-child {
+    top: 0;
+    border-radius: 218px;
+    background-color: var(--color-darkslateblue);
+    width: 191px;
+    height: 65px;
+  }
+  .sign-in {
+    position: absolute;
+    top: 18px;
+    left: 57px;
+    font-weight: 500;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 0;
+    left: 610px;
+    width: 191px;
+    height: 65px;
+    font-size: 25px;
+    color: var(--color-white);
+  }
+  .group-container {
+    position: absolute;
+    top: 7px;
+    left: 886px;
+    width: 801px;
+    height: 65px;
+  }
+  .group-parent,
+  .logo-icon {
+    position: absolute;
+    left: 0;
+    height: 81px;
+  }
+  .logo-icon {
+    top: 0;
+    width: 147px;
+    object-fit: cover;
+  }
+  .group-parent {
+    top: 4px;
+    width: 1687px;
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-100);
+    font-family: var(--font-roboto);
+  }
+  .langing-oage-a-child {
+    position: absolute;
+    top: 55.5px;
+    left: 886.5px;
+    border-top: 3px solid var(--color-chocolate);
+    box-sizing: border-box;
+    width: 52px;
+    height: 3px;
+  }
+  .langing-oage-a1 {
+    position: relative;
+    background-color: var(--color-floralwhite);
+    width: 1728px;
+    height: 995px;
+    overflow-x: auto;
+    flex-shrink: 0;
+    font-family: var(--font-montecarlo);
+  }
+  .group-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 14px;
+    background-color: var(--color-darkslateblue);
+    width: 1722px;
+    height: 277px;
+  }
+  .contrary-to-popular,
+  .learn-the-latest {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 345.12px;
+  }
+  .contrary-to-popular {
+    top: 49px;
+    font-size: var(--font-size-mini);
+    line-height: 28px;
+    font-weight: 500;
+    color: var(--color-gray-200);
+    width: 351.13px;
+    height: 88px;
+  }
+  .group-inner,
+  .learn-the-latest-skills-parent {
+    position: absolute;
+    top: 0;
+    left: 152.72px;
+    width: 351.13px;
+    height: 137px;
+  }
+  .group-inner {
+    left: 0;
+    border-radius: var(--br-4xl);
+    background-color: var(--color-gray-300);
+    width: 122.66px;
+    height: 101px;
+  }
+  .group-parent1 {
+    position: absolute;
+    top: 70px;
+    left: 42.09px;
+    width: 503.85px;
+    height: 137px;
+  }
+  .get-ready-for {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 348.73px;
+  }
+  .group-parent2 {
+    position: absolute;
+    top: 70px;
+    left: 606.07px;
+    width: 503.85px;
+    height: 137px;
+  }
+  .earn-a-certificate {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 263.35px;
+  }
+  .group-parent3,
+  .rectangle-group {
+    position: absolute;
+    top: 70px;
+    left: 1170.05px;
+    width: 503.85px;
+    height: 137px;
+  }
+  .rectangle-group {
+    top: 0;
+    left: 0;
+    width: 1722px;
+    height: 277px;
+  }
+  .online-test-1-icon {
+    position: absolute;
+    top: 94px;
+    left: 70.95px;
+    width: 64.94px;
+    height: 54px;
+    object-fit: cover;
+  }
+  .certification-1-icon,
+  .exam-1-icon {
+    position: absolute;
+    top: 90px;
+    left: 630.12px;
+    width: 74.56px;
+    height: 62px;
+    object-fit: cover;
+  }
+  .certification-1-icon {
+    top: 91px;
+    left: 1195.3px;
+    width: 72.15px;
+    height: 60px;
+  }
+  .group-div {
+    position: relative;
+    width: 1722px;
+    height: 277px;
+    font-size: var(--font-size-9xl);
+    color: var(--color-white);
+  }
+  .objects-icon {
+    position: absolute;
+    height: 37.53%;
+    width: 35.36%;
+    top: 32.86%;
+    right: 1.74%;
+    bottom: 29.61%;
+    left: 62.91%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .a-perfect {
+    color: var(--color-black);
+  }
+  .headstart {
+    color: var(--color-chocolate);
+  }
+  .a-perfect-headstart {
+    margin: 0;
+  }
+  .a-perfect-headstart-container {
+    position: absolute;
+    top: 230px;
+    left: 101px;
+    letter-spacing: 0.24em;
+    line-height: 199.19%;
+    font-weight: 800;
+  }
+  .langing-oage-b-child {
+    position: absolute;
+    top: 505px;
+    left: 0;
+    width: 1137.36px;
+    height: 506.11px;
+  }
+  .skill-rich-enviroinment {
+    position: absolute;
+    top: 197px;
+    left: 0;
+    font-weight: 300;
+  }
+  .woman-in-workflow-multitasking {
+    position: absolute;
+    top: 0;
+    left: 16px;
+    width: 220px;
+    height: 208px;
+    object-fit: cover;
+  }
+  .skill-rich-enviroinment-parent {
+    position: absolute;
+    top: 8px;
+    left: 0;
+    width: 251px;
+    height: 227px;
+  }
+  .excellent-mentorship {
+    position: absolute;
+    top: 189px;
+    left: 30px;
+    font-weight: 300;
+  }
+  .olleagues-discussing-team-proj {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 291px;
+    height: 190px;
+    object-fit: cover;
+  }
+  .excellent-mentorship-parent {
+    position: absolute;
+    top: 9px;
+    left: 277px;
+    width: 291px;
+    height: 219px;
+  }
+  .ngo-based-organization {
+    position: absolute;
+    top: 204px;
+    left: 22px;
+    font-weight: 300;
+  }
+  .man-and-woman-work-in-support {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 332px;
+    height: 233px;
+    object-fit: cover;
+  }
+  .group-parent4,
+  .ngo-based-organization-parent {
+    position: absolute;
+    top: 0;
+    left: 594px;
+    width: 332px;
+    height: 234px;
+  }
+  .group-parent4 {
+    top: 618px;
+    left: 54px;
+    width: 926px;
+    height: 235px;
+    font-size: var(--font-size-7xl);
+    color: var(--color-darkslateblue);
+  }
+  .langing-oage-b-item {
+    position: absolute;
+    top: 54.5px;
+    left: 978.5px;
+    border-top: 3px solid var(--color-chocolate);
+    box-sizing: border-box;
+    width: 74px;
+    height: 3px;
+  }
+  .langing-oage-a,
+  .langing-oage-b {
+    position: relative;
+    background-color: var(--color-floralwhite);
+  }
+  .langing-oage-b {
+    width: 1728px;
+    height: 995px;
+    overflow: hidden;
+    flex-shrink: 0;
+    font-size: 60px;
+  }
+  .langing-oage-a {
+    width: 100%;
+    overflow-x: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 176px;
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+  }
+  
